@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desafio 1 - DevQuest</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Lista em HTML</h1>
+    <!--Lista não ordenada. O correto para dar estilo no valor seria pelo CSS-->
+    <h2>Lista de Alimentos Saudáveis</h2>
+    <ul>
+        <li>Bolacha de chocolate - <strong>R$ 11,90</strong></li>
+        <li>Nescau - <strong>R$ 6,90</strong></li>
+        <li>Cereais - <strong>R$ 19,90</strong></li>
+        <li>Energético - <strong>R$ 7,99</strong></li>
+        <li>Peixe - <strong>R$ 29,90</strong></li>
+        <li>Carne bovina - <strong>R$ 46,90</strong></li>
+        <li>Arroz Branco - <strong>R$ 8,99</strong></li>
+        <li>Leite - <strong>R$ 3,45</strong></li>
+    </ul>
+    <p>Total das compras:<strong>R$ 135,93</strong></p>
+
+
+    
+</body>
+</html>
