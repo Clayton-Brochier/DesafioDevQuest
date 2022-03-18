@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desafio2 - Imagem com link externo</title>
+</head>
+<body>
+    <h1>Desafio2 - Imagem com link externo</h1>
+    
+        <p>Criar uma imagem com link externo, sendo que o mesmo deve abrir em uma nova aba do navegador.</p>
+    
+        <a href="https://google.com" target="_blank"><img src="https://via.placeholder.com/200x300"/>
+</body>
+</html>
